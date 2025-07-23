@@ -38,4 +38,3 @@ He/Him
 ⚡ Fun fact: ...
 - I started my AI journey without any tech background — now I'm helping businesses bring their own AI-powered mobile apps to life without writing a single line of code!
   
--->
