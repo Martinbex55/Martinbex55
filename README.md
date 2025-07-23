@@ -1,16 +1,41 @@
-## Hi there 👋
+##👋 Hi, I'm Martin Oinam – Founder of Existential Agency
 
-<!--
-**Martinbex55/Martinbex55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Welcome to my GitHub! I'm a no-code/low-code AI entrepreneur building **AI-powered mobile apps** that automate and simplify business operations across industries like Chat, Booking, Health, Delivery, E-commerce, Productivity, and more.
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on
+- AI-powered mobile app products for B2B automation under **Existential Agency**
+- Custom solutions using **Python**, **Flutter**, **ChatGPT**, **Whisper**, **Vosk**, and **Coqui TTS**
+- A portfolio of AI agents to showcase practical use-cases in business workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🌱 ### 🌱 I’m currently learning
+- Advanced agentic & voice AI integration (offline + real-time)
+- LLM orchestration using tools like **LangChain**, **Microsoft AutoGen** and **Ollama**
+- Prompt engineering and local AI model deployments
+- 
+- ### 👯 I’m looking to collaborate on
+- AI mobile apps for solopreneurs, startups & small businesses
+- Open-source projects in conversational AI, voice AI, or automation
+- Productized AI services and subscriptions
+- 
+- ### 🤔 I’m looking for help with
+- Optimizing real-time voice interaction using local LLMs
+- Deploying AI mobile apps at scale on both iOS & Android
+- Community building around AI mobile solutions
+- 
+- ### 💬 Ask me about
+- How to build or automate your business using AI apps
+- Tools like ChatGPT API, Flutter, Python, Firebase, or local models
+- Starting an AI agency with no-code/low-code knowledge
+- 
+- ### 📫 How to reach me
+- Email: martin.agency824@gmail.com  
+- Fiverr: [martin_oinam](https://www.fiverr.com/martin_oinam/build-custom-ai-mobile-app-ios-android-app-chatgpt-flutter)
+- LinkedIn: [@existentialagency](https://www.linkedin.com/in/existential-agency-8106a4334/)
+- 
+- ### 😄 Pronouns
+He/Him
+
 - ⚡ Fun fact: ...
+- I started my AI journey without any tech background — now I'm helping businesses bring their own AI-powered mobile apps to life without writing a single line of code!
+  
 -->
