@@ -2,10 +2,11 @@
 
 🚀 Welcome to my GitHub! I'm a no-code/low-code AI entrepreneur building **AI-powered mobile apps** that automate and simplify business operations across industries like Chat, Booking, Health, Delivery, E-commerce, Productivity, and more.
 
-### 🔭 I’m currently working on
-- AI-powered mobile app products for B2B automation under **Existential Agency**
-- Custom solutions using **Python**, **Flutter**, **ChatGPT**, **Whisper**, **Vosk**, and **Coqui TTS**
-- A portfolio of AI agents to showcase practical use-cases in business workflows
+### 🚀 We build AI-powered mobile apps for businesses:
+- 🤖 Chat & Productivity apps
+- 🛒 E-commerce solutions
+- 🍽️ Restaurant & Delivery apps
+- 📱 Custom AI mobile applications
 
 ### 🌱 I’m currently learning
 - Advanced agentic & voice AI integration (offline + real-time)
