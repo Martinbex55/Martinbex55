@@ -1,6 +1,6 @@
 ##👋 Hi, I'm Martin Oinam – Founder of Existential Agency
 
-🚀 Welcome to my GitHub! I'm a no-code/low-code AI entrepreneur building **AI-powered mobile apps** that automate and simplify business operations across industries like Chat, Booking, Health, Delivery, E-commerce, Productivity, and more.
+🚀 Welcome to my GitHub! I'm an entrepreneur building **AI-powered mobile apps** that automate and simplify business operations across industries like Chat, Booking, Health, Delivery, E-commerce, Productivity, and more.
 
 ### 🚀 We build AI-powered mobile apps for businesses:
 - 🤖 Chat & Productivity apps
