@@ -1,24 +1,24 @@
 ##👋 Hi, I'm Martin Oinam – Founder of Existential Agency
 
-🚀 Welcome to my GitHub! I'm an entrepreneur building **AI-powered mobile apps** that automate and simplify business operations across industries like Chat, Booking, Health, Delivery, E-commerce, Productivity, and more.
+Welcome to my GitHub! I'm an entrepreneur building **AI-powered mobile apps** that automate and simplify business operations across industries like Chat, Booking, Health, Delivery, E-commerce, Productivity, and more.
 
-### 🚀 We build AI-powered mobile apps for businesses:
+We build AI-powered mobile apps for businesses:
 - 🤖 Chat & Productivity apps
 - 🛒 E-commerce solutions
 - 🍽️ Restaurant & Delivery apps
 - 📱 Custom AI mobile applications
 
-### 🌱 I’m currently learning
+ I’m currently learning
 - Advanced agentic & voice AI integration (offline + real-time)
 - LLM orchestration using tools like **LangChain**, **Microsoft AutoGen** and **Ollama**
 - Prompt engineering and local AI model deployments
   
-### 👯 I’m looking to collaborate on
+I’m looking to collaborate on
 - AI mobile apps for solopreneurs, startups & small businesses
 - Open-source projects in conversational AI, voice AI, or automation
 - Productized AI services and subscriptions
   
-### 🤔 I’m looking for help with
+I’m looking for help with
 - Optimizing real-time voice interaction using local LLMs
 - Deploying AI mobile apps at scale on both iOS & Android
 - Community building around AI mobile solutions
